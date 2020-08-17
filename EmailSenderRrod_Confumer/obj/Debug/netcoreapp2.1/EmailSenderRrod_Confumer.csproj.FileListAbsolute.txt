@@ -1,0 +1,12 @@
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.deps.json
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.runtimeconfig.json
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.runtimeconfig.dev.json
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.dll
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.pdb
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.csprojAssemblyReference.cache
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.csproj.CoreCompileInputs.cache
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.AssemblyInfoInputs.cache
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.AssemblyInfo.cs
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.dll
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\obj\Debug\netcoreapp2.1\EmailSenderRrod_Confumer.pdb
+D:\ToWork\vsProjects\EmailSenderRrod_Confumer\EmailSenderRrod_Confumer\bin\Debug\netcoreapp2.1\appsettings.json
